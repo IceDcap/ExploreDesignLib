@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/navigation_drawer">
+        <item android:id="@+id/first"
+              android:title="first item"
+                android:icon="@mipmap/ic_launcher"/>
+        <item android:id="@+id/second"
+              android:title="second item"
+              android:icon="@mipmap/ic_launcher"/>
+        <item android:id="@+id/third"
+              android:title="third item"
+              android:icon="@mipmap/ic_launcher"/>
+        <item android:id="@+id/four"
+              android:title="fourth item"
+              android:icon="@mipmap/ic_launcher"/>
+        <item android:id="@+id/five"
+              android:title="fifth item"
+              android:icon="@mipmap/ic_launcher"/>
+    </group>
+</menu>

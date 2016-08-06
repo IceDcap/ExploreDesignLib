@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExploreDesignLib</string>
+    <string name="btn_snack_bar">SnackBar Example</string>
+    <string name="btn_snack_bar_message">show a common message</string>
+    <string name="btn_snack_bar_handle_sth">handle something</string>
+    <string name="btn_fab">FAB Example</string>
+    <string name="btn_textview_floating_label">Text Input Example</string>
+    <string name="et_email_address">Email Address</string>
+    <string name="et_password">Password</string>
+    <string name="btn_validate">validate</string>
+    <string name="err_address_invalidate">invalidate address</string>
+    <string name="err_not_blank">not blank</string>
+    <string name="btn_navigation">Navigation Example</string>
+    <string name="btn_tablayout">TabLayout Example</string>
+    <string name="btn_coordinator">Coordinator Example</string>
+    <string name="btn_collapse">Collapse Example</string>
+    <string name="btn_parallax">Parallax Example</string>
+    <string name="card_content">"I’m a massive fan of material design. Everything about it provides a strong feeling of consistency between applications and as a whole makes them both easier and more aesthetically pleasing to use. Google I/O 2015 saw the introduction of some great new assets to the world of Android — including the new Design Support Library. With the introduction of this, there’s now no excuse not to follow the Material Design Guidelines provided by Google."</string>
+</resources>
